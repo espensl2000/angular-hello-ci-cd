@@ -18,4 +18,4 @@ jobs:
           NETLIFY_SITE_ID: ${{ secrets.MY_SITE_ID }}
           NETLIFY_DEPLOY_MESSAGE: "Prod deploy v${{ github.ref }}"
           NETLIFY_DEPLOY_TO_PROD: true
-          build_directory: dist/angular-hello-ci-cd-exercise/browser
+          build_directory: dist/hello-ci-cd/browser
