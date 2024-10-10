@@ -1,4 +1,4 @@
-name: 'Netlify Deploy'
+name: 'Trigger Netlify Deploy'
 
 on:
   push:
